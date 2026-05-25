@@ -9,7 +9,7 @@
       "total_questions": 2,
       "thumbnail_url": "",
       "banner_url": "",
-      "download_url": "PASTE_YOUR_GITHUB_RELEASE_URL_HERE",
+      "download_url": "https://github.com/arsumabbas/medical-qbanks/releases/download/V1/amboss_step_qbank.db",
       "entitlement_requirement": "free",
       "release_notes": "First remote downloadable qbank.",
       "update_version": "1.0.0",
