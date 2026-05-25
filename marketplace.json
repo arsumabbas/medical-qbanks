@@ -1,0 +1,19 @@
+{
+  "qbanks": [
+    {
+      "id": "amboss-step-qbank",
+      "title": "Amboss STEP Qbank",
+      "category": "Medicine",
+      "version": "1.0.0",
+      "size_mb": 5,
+      "total_questions": 2,
+      "thumbnail_url": "",
+      "banner_url": "",
+      "download_url": "PASTE_YOUR_GITHUB_RELEASE_URL_HERE",
+      "entitlement_requirement": "free",
+      "release_notes": "First remote downloadable qbank.",
+      "update_version": "1.0.0",
+      "checksum": ""
+    }
+  ]
+}
